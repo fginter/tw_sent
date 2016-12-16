@@ -34,7 +34,7 @@ class Sentiment:
                     break
     
     def __str__(self):
-        return "## {}\n\nOrig\n: {}\n\nExpanded\n: {}".format(self.minor,", ".join(sorted(self.orig)),", ".join(sorted(self.expanded)))
+        return "## {}\n### Orig\n{}\n### Expanded\n{}".format(self.minor,", ".join(sorted(self.orig)),", ".join(sorted(self.expanded)))
 
 
 def get_sents(inp):
@@ -62,7 +62,7 @@ if __name__=="__main__":
     wv=lwvlib.load("../w2v/pb34_wf_200_v2_skgram.bin",1000000,1000000)
     ordered,sents=get_sents(sys.stdin)
     for s in sents.values():
-        s.expand(wv,50)
+        s.expand(wv,100)
     m=None
     for (major,minor) in ordered:
         if major!=m:
