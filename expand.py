@@ -34,7 +34,7 @@ class Sentiment:
                     break
     
     def __str__(self):
-        return "## {}\n\n  Orig:    {}\n  Expanded: {}".format(self.minor,", ".join(sorted(self.orig)),", ".join(sorted(self.expanded)))
+        return "## {}\n\n  Orig\n: {}\n   Expanded\n: {}".format(self.minor,", ".join(sorted(self.orig)),", ".join(sorted(self.expanded)))
 
 
 def get_sents(inp):
