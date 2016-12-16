@@ -59,7 +59,7 @@ def get_sents(inp):
 
 
 if __name__=="__main__":
-    wv=lwvlib.load("../w2v/pb34_wf_200_v2_skgram.bin",40000,100000)
+    wv=lwvlib.load("../w2v/pb34_wf_200_v2_skgram.bin",1000000,1000000)
     ordered,sents=get_sents(sys.stdin)
     for s in sents.values():
         s.expand(wv,50)

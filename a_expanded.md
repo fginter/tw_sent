@@ -6,7 +6,7 @@ Orig
 : herttainen, hyväntahtoinen, kiltti, lempeä, leppoisa, seurallinen, sopuisa, sovinnollinen, suopea, sydämellinen, tyyni, vieraanvarainen
 
 Expanded
-: aurinkoinen, avulias, eloisa, energinen, hellä, hurmaava, hyväntuulinen, ihana, ihastuttava, ilkeä, iloinen, itsepäinen, itsevarma, kaunis, kiukkuinen, kohtelias, komea, kuuliainen, kärsivällinen, leikkisä, lämmin, lämminhenkinen, miellyttävä, nätti, nöyrä, omalaatuinen, pikkuinen, pilvinen, pirteä, päättäväinen, rakastava, ratsastaessa, ratsu, ratsuna, rauhallinen, reipas, rento, rohkea, sievä, suloinen, sympaattinen, söpö, tulinen, tuulinen, ujo, utelias, vauhdikas, viaton, viehättävä, viileä
+: alistuvainen, avulias, hellyttävä, hellyydenkipeä, hellyyttävä, hellä, huolehtivainen, huomionkipeä, hurmaava, hyväkäytöksinen, hyväsydäminen, hyvätapainen, ihmisrakas, ihmisystävällinen, jääräpäinen, kilttikin, lapsirakas, leikkisä, leppoinen, letkeä, lutuinen, miellyttämisenhaluinen, miellyttämishaluinen, omapäinen, oppivainen, peruskiltti, pirtsakka, pitkäpinnainen, puhelias, rauhallinen, rento, selväpäinen, seurankipeä, sievä, suloinen, superkiltti, sympaattinen, symppis, säyseä, söötti, tammamainen, temperamenttinen, tempperamenttinen, tottelevainen, valloittava, veikeä, viehkeä, yhteistyöhaluinen, äidillinen, äksy
 
 ## miellyttävä
 
@@ -14,7 +14,7 @@ Orig
 : iloinen, mieleinen, mukava, sopiva, suloinen, viihtyisä
 
 Expanded
-: energinen, erinomainen, hauska, herttainen, hurmaava, hyväntuulinen, hämmentynyt, ihana, ihastuttava, itsevarma, kaunis, kiitollinen, kiltti, kiva, kodikas, komea, leikkisä, leppoisa, luottavainen, lämminhenkinen, miellyttävä, miellyttävän, mieluinen, mieluisa, miljöö, mukavaa, nätti, onnellinen, passeli, pikkuinen, pirteä, raikas, rauhallinen, rento, sievä, siisti, sopivin, suloisen, sympaattinen, söpö, tasokas, tilava, tunnelmallinen, tyylikäs, upea, valoisa, viehättävä, virkistävä, yllättynyt, ylpeä
+: halittava, hauska, hellyttävä, hellyyttävä, herttainen, hupsu, hurmaava, idyllinen, ihana, ihastuttava, kaunis, kiva, kodikas, kodinomainen, kotoisa, lapsiystävällinen, lutuinen, lutunen, mieluinen, mieluisa, mielyttävä, nallekarhu, nappisilmä, nauravainen, nautinnollinen, nätti, onnellinen, passeli, pikkuinen, pirteä, pirtsakka, sievä, soma, sopivampi, supersuloinen, supersöpö, symppis, söpö, söpöinen, söpöliini, söpöläinen, söpönen, söötti, tilava, tunnelmallinen, valloittava, veikeä, viehkeä, ylisuloinen, ylisöpö
 
 # kylmyys
 
@@ -24,7 +24,7 @@ Orig
 : epäkohtelias, huonotapainen, kolkko, kova, moukkamainen, tyly, töykeä
 
 Expanded
-: ahdistava, aikamoinen, ankara, armoton, haikea, heikko, hiljainen, hillitön, hirmuinen, hirveä, hirvittävä, huono, hurja, hämärä, hölmö, ilkeä, inhottava, itsekäs, julma, jäätävä, kamala, kammottava, karmea, karu, kauhea, kiukkuinen, kohtelias, kovempi, lapsellinen, melkoinen, mustasukkainen, omituinen, outo, pelottava, pimeä, rankka, raskas, surkea, synkkä, säälittävä, tiukka, tunnelmallinen, typerä, ujo, valoisa, vastenmielinen, vihainen, välinpitämätön, ylimielinen, ärsyttävä
+: aavemainen, ahdistava, ajattelematon, ankea, epäystävällinen, hitonmoinen, huomionkipeä, huonokäytöksinen, hämyinen, hämyisä, hämärä, hömelö, ilkeä, iloton, itserakas, kaksinaamainen, kalsea, kammottava, kauhea, kiukkuinen, kohtelias, koppava, kovakin, kusipäinen, kärttyinen, lapsellinen, lohduton, luotaantyöntävä, nuhjuinen, pahankurinen, pahansisuinen, painostava, rähjäinen, synkeä, synkkä, tekopyhä, tungetteleva, tunkeileva, tunkkainen, tuttavallinen, tympeä, typerä, töykeästi, vahingoniloinen, valoisa, vihainen, vihamielinen, ylimielinen, ynseä, äreä
 
 ## epämiellyttävä
 
@@ -32,7 +32,7 @@ Orig
 : epämieluisa, ikävä, ilkeä, inhottava, kelju, luotaantyöntävä, tympeä, vastenmielinen, ällöttävä
 
 Expanded
-: absurdi, ahdistava, ahne, ankea, avuton, epämiellyttävä, hirveä, hirvittävä, huvittava, hämmentävä, hölmö, idiootti, inhottavaa, itsekäs, julma, järkyttävä, kamala, kammottava, karmea, katkera, kauhea, kiltti, kiukkuinen, kiusallinen, kummallinen, kurja, lapsellinen, mustasukkainen, naurettava, omituinen, outo, ovela, paha, pelottava, rasittava, ristiriitainen, ruma, sellainen, semmoinen, sääli, säälittävä, tuskallinen, tyhmä, tylsä, typerä, ujo, viaton, vihainen, ylimielinen, ärsyttävä
+: absurdi, epäkohtelias, etova, häijy, iljettävä, itsekäs, itserakas, julma, kaamea, kamala, kammottava, karmea, karsea, kauhea, kiukkuinen, koppava, kummallinen, kurja, kuvottava, lapsellinen, mitäänsanomaton, murhanhimoinen, naurettava, nössö, oksettava, omituinen, outo, paha, pahansisuinen, pahansuopa, pahantahtoinen, paskamainen, paskiainen, pelkuri, pelottava, perverssi, puistattava, raivohullu, raivostuttava, ruma, röyhkeä, tunteeton, typerä, veemäinen, vihainen, ylimielinen, äkkipikainen, äkäinen, äreä, ärsyttävä
 
 # empatia
 
@@ -42,7 +42,7 @@ Orig
 : auttavainen, avulias, hoitava, kannustava, myötätuntoinen, tukeva, vaaliva, välittävä
 
 Expanded
-: ammattitaitoinen, edistävä, energinen, fiksu, herttainen, hoitaa, hoitavan, hyväntuulinen, ilmapiiri, iloinen, innokas, innostava, inspiroiva, itsevarma, joustava, jämäkkä, kiltti, kohtelias, kärsivällinen, leikkisä, lempeä, luottavainen, luova, motivoitunut, myönteinen, määrätietoinen, nöyrä, oikeudenmukainen, osaava, pirteä, positiivinen, päättäväinen, rakastava, rauhallinen, rehellinen, reipas, rento, rohkea, sympaattinen, tukee, tukevaa, työyhteisö, ujo, utelias, viisas, välinpitämätön, yhteishenki, ylimielinen, ystävällinen, älykäs
+: ajattelevainen, empaattinen, epäitsekäs, hellä, hienotunteinen, hoitavaa, humaani, huolehtivainen, huomaavainen, huumorintajuinen, hymyileväinen, hyveellinen, hyväkäytöksinen, hyväntahtoinen, hyväsydäminen, hyvätapainen, ihmisläheinen, innostava, isällinen, itsevarma, jalomielinen, keskusteleva, kiltti, kohtelias, kunnioittava, lapsirakas, lempeä, lämminsydäminen, motivoiva, myötäelävä, nauravainen, nöyrä, palvelualtis, palveluhenkinen, pitkäpinnainen, puhelias, rakastavainen, rakkaudellinen, rohkaiseva, seurallinen, säälivä, tsemppaava, vaalii, vastuuntuntoinen, vilpitön, välinpitämätön, yhteistyökykyinen, ymmärtäväinen, ystävällinen, äidillinen
 
 ## empaattinen
 
@@ -50,7 +50,7 @@ Orig
 : toisen tunteisiin eläytyvä
 
 Expanded
-: ahdistunut, ahkera, ajatteleva, avulias, avuton, eloisa, energinen, fiksu, hellä, herkkä, herttainen, hyväntuulinen, ilkeä, iloinen, itsekäs, kannustava, kiltti, kohtelias, kunnioittava, kärsivällinen, lahjakas, lapsellinen, leikkisä, lempeä, luottavainen, masentunut, motivoitunut, mustasukkainen, määrätietoinen, naiivi, nöyrä, persoona, päättäväinen, rakastava, rauhallinen, rehellinen, reipas, rohkea, sivistynyt, sympaattinen, terve, tunteva, ujo, utelias, viisas, vilpitön, välinpitämätön, ylimielinen, ystävällinen, älykäs
+: ajattelevainen, auttavainen, avarakatseinen, avomielinen, elämänmyönteinen, herkkävaistoinen, hienotunteinen, hoivaava, humaani, huolehtivainen, huomaavainen, huumorintajuinen, hymyileväinen, hyväsydäminen, ihmisläheinen, impulsiivinen, itsekeskeinen, itsetietoinen, itsevarma, kuunteleva, lapsirakas, lempeä, luonteeltani, lämminsydäminen, myötäelävä, myötätuntoinen, nauravainen, periksiantamaton, persoona, peruspositiivinen, pitkäpinnainen, puhelias, päättäväinen, rehellinen, rohkea, sisäänpäinkääntynyt, sovitteleva, suorapuheinen, suorasanainen, syrjäänvetäytyvä, tilannetajuinen, tunneihminen, tunnekylmä, tunteellinen, uhrautuvainen, ulospäinsuuntautunut, vastuuntuntoinen, voimakastahtoinen, ymmärtävä, äidillinen
 
 # itsekeskeisyys
 
@@ -60,7 +60,7 @@ Orig
 : armoton, piittaamaton, sydämetön, säälimätön
 
 Expanded
-: aggressiivinen, ahdistunut, aikamoinen, ainainen, ankara, arvaamaton, avuton, epätoivoinen, epävarma, hermostunut, hillitön, hirmuinen, hirveä, hirvittävä, hurja, hämmentynyt, ilkeä, inhottava, itsekäs, itsevarma, julma, järkyttävä, jäätävä, kammottava, karmea, katkera, kauhea, kiihkeä, kiivas, kiukkuinen, kova, lapsellinen, levoton, luottavainen, masentunut, mustasukkainen, naiivi, piittaamatta, päättäväinen, raju, rehellinen, suoranainen, tietämätön, totaalinen, turhautunut, ujo, utelias, vihainen, väkivaltainen, ylimielinen
+: ahdistunut, alistuva, apaattinen, brutaali, epäluuloinen, etäinen, helvetillinen, hillitön, hirmuinen, häijy, häikäilemätön, itsekeskeinen, itsekäs, itserakas, itsevarma, julma, kaamea, kiihkeä, koppava, kostonhimoinen, kylmäkiskoinen, laskelmoiva, moraaliton, murhanhimoinen, myötätuntoinen, määräilevä, omistushaluinen, pelokas, pidättyväinen, piittaamattomuus, psykopaattinen, raakalaismainen, raivoisa, raivokas, röyhkeä, sadistinen, sankarillinen, tunkeileva, tunnekylmä, tunteeton, vainoharhainen, vastuuton, verenhimoinen, vihamielinen, vimmainen, väkivaltainen, väliinpitämätön, välinpitämätön, välittämätön, ylimielinen
 
 ## itsekäs
 
@@ -68,7 +68,7 @@ Orig
 : omaa etuaan tavoitteleva, ylimielinen
 
 Expanded
-: aggressiivinen, ahdistunut, ahne, ajatteleva, avuton, epätoivoinen, fiksu, hölmö, idiootti, ilkeä, inhottava, itsekäs, itsepäinen, itsevarma, julma, katkera, kiltti, kiukkuinen, laiska, lapsellinen, lihava, masentunut, mustasukkainen, naiivi, omituinen, onnellinen, onneton, rasisti, rasittava, rehellinen, rohkea, ruma, sairas, sivistynyt, sokea, surullinen, säälittävä, toivoton, turhautunut, tyhmä, tyly, typerä, ujo, vastenmielinen, viaton, vihainen, viisas, väkivaltainen, välinpitämätön, ärsyttävä
+: ahne, ajattelematon, alentuva, arrogantti, egoisti, egoistinen, empatiakyvytön, hölmö, ilkeä, itsekeskeinen, itsekäs, itserakas, itseriittoinen, itsevarma, kaksinaamainen, kaunainen, kiittämätön, kontrollifriikki, koppava, kusipäinen, kylmäkiskoinen, kyyninen, lapsellinen, laskelmoiva, leuhka, lipevä, mielistelevä, moukkamainen, naiivi, naivi, narsisti, narsistinen, nenäkäs, neuroottinen, nokkava, omahyväinen, pikkumainen, röyhkeä, sarkastinen, selkärangaton, tekopyhä, tunnekylmä, tunnevammainen, tunteeton, turhamainen, tyhmä, tärkeilevä, töykeä, vastuuntunnoton, välinpitämätön
 
 # myöntyvyys
 
@@ -78,7 +78,7 @@ Orig
 : ennakkoluuloton, joustava, pitkänäköinen, suvaitsevainen
 
 Expanded
-: ahkera, ajatteleva, aktiivinen, dynaaminen, edistyksellinen, energinen, helppokäyttöinen, innokas, innostava, innovatiivinen, intohimoinen, itsekäs, itsevarma, joustavan, joustavuus, jämäkkä, jäykkä, kannustava, kekseliäs, kevyt, kohtelias, korkealaatuinen, kunnianhimoinen, kunnioittava, kustannustehokas, käytännöllinen, leikkisä, liberaali, luova, läpinäkyvä, monikulttuurinen, monikäyttöinen, monipuolinen, muslimi, määrätietoinen, naiivi, nuorekas, persoonallinen, päättäväinen, rasisti, rasistinen, rehellinen, reipas, rohkea, tehokas, tukeva, vasemmistolainen, vilpitön, välinpitämätön, ylimielinen
+: ahdasmielinen, avarakatseinen, avaramielinen, avomielinen, dynaaminen, empaattinen, ennakkoluuloinen, esimerkillinen, hienotunteinen, homofobinen, homovastainen, humaani, idearikas, ihmisläheinen, innostava, innovatiivinen, itseriittoinen, itsevarma, kokeileva, kokeilunhaluinen, konservatiivi, kustannustehokas, käytännöllinen, liberaali, luova, modulaarinen, moniarvoinen, mukautuva, myötätuntoinen, määrätietoinen, näkemyksellinen, periksiantamaton, peräänantamaton, päämäärätietoinen, rasisti, rehellinen, rohkea, sivistynyt, solidaarinen, sovitteleva, suvaitsematon, suvaitseva, suvaitsevaisempi, tarmokas, ulospäinsuuntautunut, umpimielinen, uskalias, vanhoillinen, vapaamielinen, vastuuntuntoinen
 
 ## myöntyvä
 
@@ -86,7 +86,7 @@ Orig
 : alistuva, edullinen, myötämielinen, nöyrä, rauhallinen, suostuva, vapaamielinen
 
 Expanded
-: arvaamaton, eloisa, energinen, halpa, hellä, herkkä, herttainen, hiljainen, huoleton, hurmaava, hyväntuulinen, iloinen, innokas, itsepäinen, itsevarma, jännittynyt, kaunis, kiltti, kustannustehokas, kuuliainen, kärsivällinen, leikkisä, lempeä, leppoisa, levoton, luottavainen, lämminhenkinen, miellyttävä, määrätietoinen, persoona, pirteä, päättäväinen, ratsastaessa, rauhallisempi, rehellinen, reipas, rento, rohkea, siisti, sympaattinen, tyyni, uskollinen, valoisa, vauhdikas, viehättävä, viisas, vilkas, vilpitön, virkeä, ystävällinen
+: ahdasmielinen, alistuja, alistuvainen, avarakatseinen, eloisa, energinen, hiljainen, ihmisystävällinen, itsekeskeinen, itsekäs, itseriittoinen, itsetietoinen, itsevarma, jääräpäinen, kiltti, komenteleva, kuuliainen, kärsivällinen, lempeä, leppoinen, leppoisa, levollinen, liberaali, määräilevä, nöyristelevä, pelokas, periksiantamaton, pidättyväinen, päättäväinen, rauhaisa, rauhallinenkin, rauhaton, reipas, rento, rohkea, seesteinen, seurallinen, suopea, suvaitsematon, suvaitseva, suvaitsevainen, sävyisä, säyseä, tottelevainen, unelias, vahvatahtoinen, vanhoillinen, virkeä, välinpitämätön, yhteistyöhaluinen
 
 # hallitsevuus
 
@@ -96,7 +96,7 @@ Orig
 : ahdasmielinen, ennakkoluuloinen, jyrkkä, lyhytnäköinen, rajoittunut, tuomitseva
 
 Expanded
-: ahdistunut, alamäkeen, alamäki, arka, epätasainen, hämmentynyt, hölmö, ilkeä, itsekäs, itsevarma, julma, jyrkkää, jyrkän, kapea, kiukkuinen, kivinen, lapsellinen, laskeva, matala, mustasukkainen, myönnän, naiivi, olematon, optimistinen, painottuu, pettynyt, pitkä, rajoittuu, rajoitu, raju, rasisti, rasistinen, sidoksissa, suora, suppea, synti, syntinen, syvä, tasainen, tiukka, tuomitsemaan, tyhmä, typerä, ujo, utelias, vanhurskas, viaton, vihainen, välinpitämätön, ylimielinen
+: elitisti, elitistinen, empatiakyvytön, epäilevä, epäileväinen, epäluuloinen, fundamentalistinen, homofobinen, homovastainen, itsekeskeinen, itsekäs, itseriittoinen, jyrkempi, jyrkähkö, kaksinaismoralistinen, kapeakatseinen, kaunainen, konservatiivi, kyyninen, lapsellinen, liberaali, libertaari, loiva, lyhytjänteinen, moraaliton, naiivi, naivi, perverssi, pikkusieluinen, rasisti, rasistinen, selkärangaton, sivistymätön, skeptinen, sovinisti, sovinistinen, suvaitsematon, suvaitseva, suvaitsevainen, taantumuksellinen, tekopyhä, tiukkapipoinen, umpimielinen, vainoharhainen, vanhoillinen, vapaamielinen, vastuuton, voitontavoittelu, välinpitämätön, ylimielinen
 
 ## hallitseva
 
@@ -104,7 +104,7 @@ Orig
 : aggressiivinen, hintakiskuri, kallis, kontrolloiva, määräilevä, tiukka
 
 Expanded
-: aggressiivisesti, ankara, arka, arvaamaton, energinen, haastava, halpa, halvempi, hermostunut, hintainen, ilkeä, itsekäs, itsevarma, julma, jäykkä, kallein, kalliiksi, kalliimpi, kalliita, kallista, kiihkeä, kireä, kiukkuinen, kova, lapsellinen, leikkisä, löysä, maailmanmestari, mestari, määrätietoinen, napakka, niukka, passiivinen, puolustava, päättäväinen, raskas, rohkea, sitkeä, spontaani, tasainen, tehoton, tiukempi, uhkaava, vaarallinen, voimakas, väkivaltainen, välinpitämätön, väljä, ylimielinen, äänekäs
+: Agressiivinen, agressiivinen, ailahtelevainen, alistuva, alistuvainen, hintava, huolehtivainen, huomionhakuinen, huomionkipeä, hyväsydäminen, hyökkäävä, ilkeä, impulsiivinen, itsekeskeinen, itserakas, itsetietoinen, itsevarma, jääräpäinen, kalliskin, kiltti, komenteleva, koppava, kovapäinen, kylmäkiskoinen, kärttyisä, lujatahtoinen, manipuloiva, omapäinen, omistushaluinen, pitkäpinnainen, pomottava, pomotteleva, puhelias, päällekäyvä, päällepäsmäri, riidanhaluinen, röyhkeä, syrjäänvetäytyvä, temperamenttinen, ujo, vahvatahtoinen, vallanhaluinen, voimakastahtoinen, väkivaltainen, välinpitämätön, ylimielinen, äkkipikainen, äksy, äreä, ärhäkkä
 
 # rehellisyys
 
@@ -114,7 +114,7 @@ Orig
 : aito, avomielinen, esteetön, läpinäkyvä, salailematon, suora
 
 Expanded
-: ajaton, arvokas, avoimia, elävä, eräänlainen, huomaamaton, ikivanha, inhimillinen, jonkinlainen, joustava, jyrkkä, jämäkkä, kaikille, kalvo, kirkas, kokonaisvaltainen, kollektiivinen, kunnioittava, litteä, läpinäkyvää, metallinen, neutraali, ohut, paksu, peittävä, pelkkä, persoonallinen, puhdas, pyöreä, pyörätuolilla, rehellinen, rehellisyys, sellainen, sileä, spontaani, tietynlainen, todellinen, tumma, tällainen, täydellinen, universaali, uskottava, uudenlainen, vaalea, vahva, valkoinen, vilpitön, välitön, värillinen, yhteisöllinen
+: "aito, aikuismainen, ajattelevainen, alistuva, autenttinen, avarakatseinen, avaramielinen, empaattinen, estoton, harkitsevainen, hienotunteinen, humaani, huumorintajuinen, itsekeskeinen, itsekriittinen, itsekäs, itseriittoinen, itsetietoinen, itsevarma, joviaali, kokeilunhaluinen, kyyninen, läpikuultava, läpinäkymätön, myötätuntoinen, naiivi, ohut, peittävä, persoonallinen, pidättyväinen, puhelias, rehellinen, rohkea, röyhkeä, sisäänpäinkääntynyt, sivistynyt, sovinnainen, sovitteleva, suorapuheinen, suorasanainen, suorasukainen, suvaitsevainen, tiukkapipoinen, tunneherkkä, tunteellinen, umpimielinen, vakavamielinen, vapaamielinen, vilpitön, väritön
 
 ## rehellinen
 
@@ -122,7 +122,7 @@ Orig
 : luottamuksenarvoinen, rehti, totuudenmukainen, uskottava, vilpitön
 
 Expanded
-: ahkera, aito, asenne, energinen, fiksu, herttainen, huoleton, hyväntuulinen, inhimillinen, itsekäs, itsevarma, järkevä, kannustava, kiltti, kohtelias, kunnioittava, kärsivällinen, leikkisä, lempeä, leppoisa, looginen, luotettava, määrätietoinen, naiivi, nöyrä, objektiivinen, oikeudenmukainen, pätevä, päättäväinen, realistinen, rehellinen, reipas, ristiriitainen, rohkea, selkeä, sivistynyt, sympaattinen, täsmällinen, uskollinen, uskottavaa, vakuuttava, viisas, vilpittömästi, välinpitämätön, yksiselitteinen, yksityiskohtainen, ylimielinen, ymmärrettävä, ystävällinen, älykäs
+: aito, avarakatseinen, empaattinen, epäuskottava, herrasmiesmäinen, hienotunteinen, horjumaton, huumorintajuinen, hyväkäytöksinen, hyväntahtoinen, hyväsydäminen, hyvätapainen, itsekäs, itsevarma, joviaali, järkkymätön, lapsenomainen, lupsakka, lämminsydäminen, myötätuntoinen, nöyrä, objektiivinen, paikkansapitävä, periksiantamaton, peräänantamaton, pyyteetön, päättäväinen, rakkaudellinen, realistinen, rehellinen, reipas, rempseä, rohkea, röyhkeä, sisukas, sovitteleva, suorapuheinen, suorasanainen, suoraselkäinen, suurisydäminen, tarkoitushakuinen, tarmokas, teeskentelemätön, todenmukainen, totuudellinen, vakuuttava, valheellinen, vastuuntuntoinen, vilpittömyys, yritteliäs
 
 ## yhteiskuntavastuullinen
 
@@ -130,7 +130,7 @@ Orig
 : eettinen, moraalinen, vastuuntuntoinen
 
 Expanded
-: aate, ahkera, auktoriteetti, etiikka, fiksu, filosofinen, hengellinen, henkinen, hyve, ideologia, ideologinen, inhimillinen, innokas, itsevarma, kiltti, kollektiivinen, kulttuurinen, kärsivällinen, lahjakas, menestyvä, moraali, moraalin, motivoitunut, nuori, nöyrä, objektiivinen, oikeudenmukaisuus, osaava, poliittinen, psykologinen, päättäväinen, rehellinen, reipas, rohkea, sivistynyt, subjektiivinen, suoranainen, tahto, tieteellinen, tietynlainen, universaali, uskonnollinen, vakaumus, vapaus, vastuullinen, viisas, yhteiskunnallinen, ystävällinen, älykäs, äärimmäinen
+: ahkera, ajattelevainen, aloitekykyinen, asiakaspalveluhenkinen, avarakatseinen, egoismi, eksistentiaalinen, empaattinen, harkitseva, harkitsevainen, huumorintajuinen, idearikas, ideologinen, ihmisläheinen, inhimillinen, intellektuaalinen, itsevarma, kollektiivinen, kyseenalaistamaton, kyvykäs, lapsirakas, lähtökohtainen, moraali, moralismi, motivoitunut, määrätietoinen, normatiivinen, oikeutus, oma-aloitteinen, oppimishaluinen, oppimiskykyinen, palveluhenkinen, periksiantamaton, päättäväinen, rehti, rohkea, siveellinen, suoraselkäinen, tarmokas, tiedollinen, tiedonhaluinen, tiimipelaaja, toimelias, tunnollinen, ulospäinsuuntautunut, yhteiskunnallinen, yhteistyökykyinen, yleisinhimillinen, yritteliäs, älyllinen
 
 # epärehellisyys
 
@@ -140,7 +140,7 @@ Orig
 : esteellinen, salaileva, umpimielinen
 
 Expanded
-: KHO:n, KKO:n, ahdistunut, arka, asianomainen, avuton, esittelijä, esitutkinnan, esitutkinnassa, estynyt, hallinto-oikeuden, hallinto-oikeus, hovioikeuden, hovioikeudessa, hämmentynyt, itsekäs, kantelun, kaupunginhallituksen, kiukkuinen, kunnanhallituksen, kunnanvaltuuston, käräjäoikeuden, käräjäoikeus, lautakunnan, levoton, masentunut, naiivi, näkymätön, oikeudenkäynnissä, oikeusasiamies, oikeuskansleri, päätöksellä, päätöksestä, ristiriitainen, syyttäjä, syyttäjän, tilintarkastaja, toimivaltainen, tuomioistuimessa, tuomioistuin, turhautunut, tyhjä, ujo, valittaja, valituksen, valtuutettu, viaton, virkamies, välinpitämätön, yksinäinen
+: ahdasmielinen, alistuva, arrogantti, egoistinen, empatiakyvytön, epäsosiaalinen, esteelliseksi, esteellisen, esteellisenä, esteellisiä, esteellisyyden, ihmisvihaaja, itsekeskeinen, itsekäs, itseriittoinen, itsetietoinen, joviaali, juro, jäyhä, kaksinaamainen, kaunainen, kirkasotsainen, kusipäinen, kyyninen, käräjätuomari, lapsellinen, laskelmoiva, mielistelevä, moraaliton, naiivi, narsistinen, nyhverö, nössö, omahyväinen, paranoidi, perverssi, selkärangaton, sisäänpäinkääntynyt, sivistynyt, sovinistinen, suvaitsematon, takakireä, tekopyhä, tiukkapipoinen, tosikko, tunteeton, tärkeilevä, valehteleva, vähä-älyinen, ylimielinen
 
 ## epärehellinen
 
@@ -148,7 +148,7 @@ Orig
 : epäuskottava, häpeällinen, kavala, kiero, luihu, petollinen, viekas, vilpillinen
 
 Expanded
-: ahdistava, ahne, ankara, armoton, arvaamaton, avuton, herttainen, huvittava, hämmentävä, hölmö, ilkeä, inhottava, itsekäs, itsevarma, julma, kammottava, kummallinen, kömpelö, lapsellinen, leikkisä, looginen, mystinen, naiivi, naurettava, nerokas, omalaatuinen, omituinen, onneton, outo, ovela, pahis, pelottava, rehellinen, rikollinen, ristiriitainen, ruma, salaperäinen, sekava, sympaattinen, säälittävä, traaginen, tyhmä, typerä, uskottava, vaarallinen, vastenmielinen, viaton, väkivaltainen, ylimielinen, ärsyttävä
+: absurdi, ennalta-arvattava, epäkiinnostava, epälooginen, epärealistinen, huvittava, häijy, hävettävä, ilkeä, ilkikurinen, ironinen, irvokas, itserakas, julma, kaksinaamainen, kauhistuttava, kieroutunut, kliseinen, koominen, kusipäinen, lapsellinen, lipevä, moraaliton, naurettava, niljakas, nöyryyttävä, omahyväinen, omalaatuinen, omituinen, ovela, pahansuopa, perverssi, pirullinen, psykopaattinen, raivostuttava, ristiriitainen, röyhkeä, sadistinen, sekopäinen, surkuhupaisa, tekopyhä, tökerö, umpikiero, uskottava, valehteleva, vastenmielinen, veemäinen, vinksahtanut, yliampuva, ylimielinen
 
 ## vastuuton
 
@@ -156,7 +156,7 @@ Orig
 : epäeettinen, moraaliton
 
 Expanded
-: absurdi, aggressiivinen, ahne, ajatteleva, arvaamaton, avuton, epäonnistunut, fiksu, hölmö, ideologinen, idiootti, ilkeä, inhimillinen, itsekäs, julma, järjetön, järkevä, kestämätön, lapsellinen, liberaali, läpeensä, moraalinen, moraalisesti, naiivi, naurettava, onneton, rasisti, rasistinen, rehellinen, rikollinen, ristiriitainen, sairas, sivistynyt, suoranainen, syyllinen, säälittävä, tarpeeton, tietämätön, toivoton, tyhmä, typerä, uskonnollinen, uskottava, vasemmistolainen, vastenmielinen, viaton, viisas, väkivaltainen, välinpitämätön, ylimielinen
+: ahdasmielinen, ajattelematon, edesvastuuton, egoistinen, empatiakyvytön, epämoraalinen, epärationaalinen, epärehellinen, halpamainen, halveksittava, halveksuttava, harhainen, holtiton, häikäilemätön, itsekeskeinen, itsekäs, itseriittoinen, julkea, kaksinaamainen, kaksinaismoralistinen, kieroutunut, kusipäinen, kyyninen, lapsellinen, leväperäinen, lyhytnäköinen, manipuloiva, moralistinen, naiivi, naivi, narsistinen, perverssi, piittaamaton, psykopaattinen, rasistinen, raukkamainen, rikollinen, röyhkeä, sadistinen, seksistinen, sovinistinen, suvaitsematon, tekopyhä, typerä, valehteleva, valheellinen, vastenmielinen, vastuuntunnoton, vastuuton, väkivaltainen
 
 # nykyaikaisuus
 
@@ -166,7 +166,7 @@ Orig
 : ajanmukainen, nuorekas, raikas, trendikäs, viileä
 
 Expanded
-: ajaton, aurinkoinen, dynaaminen, edistyksellinen, elegantti, eloisa, hedelmäinen, herkullinen, hillitty, houkutteleva, ihanan, ilma, innovatiivinen, kesäinen, kirkas, klassinen, korkeatasoinen, kostea, kuiva, kuuma, kylmä, käytännöllinen, lämmin, lämpimämpi, makea, makuinen, maukas, miellyttävä, miellyttävän, mieto, moderni, monipuolinen, muoti, märkä, naisellinen, pilvinen, raikkaan, sateinen, seksikäs, syksyinen, sää, tuoksu, tuulinen, tyylikäs, tyyni, täyteläinen, urheilullinen, viileää, virkistävä, ylellinen
+: aromaattinen, aromikas, aurinkoinen, elegantti, freesi, hedelmäinen, hiostava, hunajainen, karkkimainen, keveä, kirpakka, kirpeä, kirpsakka, kolea, kostea, kukkainen, kukkaistuoksu, kukkea, kupliva, kuuma, kylmä, kylmähkö, lämmin, maanläheinen, makea, makeahko, mansikkainen, marjainen, moderni, muodikas, nykyaikainen, paahteinen, pirskahteleva, raikkaan, samettinen, savuinen, sitruksinen, sitruunainen, tuoksu, tuoksuinen, tuulinen, tyylikäs, täyteläinen, uudenaikainen, vadelmainen, vaniljainen, viileähkö, vilpoinen, vilpoisa, yrttinen
 
 # vanhanaikaisuus
 
@@ -176,7 +176,7 @@ Orig
 : juuttunut, konservatiivinen, kulunut
 
 Expanded
-: ankea, edellisestä, eksynyt, erikoinen, hillitty, huoleton, hölmö, ikivanha, kestänyt, kulua, kului, kummallinen, kuukausi, kuukautta, käytännöllinen, kömpelö, lapsellinen, liberaali, maltillinen, moderni, mustavalkoinen, naiivi, nerokas, nykyaikainen, oikeisto, omalaatuinen, omituinen, onneton, outo, pelkistetty, poliittinen, radikaali, ristiriitainen, ruma, sekava, sellainen, simppeli, tuollainen, tylsä, typerä, tyylikäs, tyylinen, vaatimaton, vanha, vasemmistolainen, vastenmielinen, vierähti, vierähtänyt, vierähtää, vuotta
+: 50-lukulainen, alkeellinen, askeettinen, elitistinen, epäkäytännöllinen, epämuodikas, epätrendikäs, hienosteleva, jumittunut, jumiutunut, juuttua, juuttui, juuttuneen, juuttuneena, juuttuu, jymähtänyt, jämähtänyt, kankea, konservatiivi, konservatiivisempi, kulahtanut, kulua, kulunutkin, kummallinen, kömpelö, lapsellinen, liberaali, liberaalimpi, luotaantyöntävä, mielikuvitukseton, muodikas, oikeistolainen, omituinen, outo, pelkistetty, ruma, sofistikoitunut, sovinnainen, takertunut, tasavaltalainen, typerä, tyylitön, vanhahtava, vanhakantainen, vanhoillinen, vasemmistolainen, vierähtänyt, vierähtänytkin, vierähtää, vinksahtanut
 
 # seikkailullisuus
 
@@ -186,7 +186,7 @@ Orig
 : idearikas, inspiroiva, jännittävä, kekseliäs, mielikuvituksellinen
 
 Expanded
-: absurdi, ajaton, ammattimainen, antoisa, dynaaminen, edistyksellinen, fantasia, hauska, hieno, humoristinen, ihana, ihastuttava, innostava, innovaatio, joustava, kannustava, kaunis, kiehtova, kiinnostava, korkeatasoinen, loistava, luova, lämminhenkinen, mahtava, mainio, mielenkiintoinen, miellyttävä, monipuolinen, mystinen, nerokas, nykyaikainen, omalaatuinen, omaperäinen, opettavainen, pelkistetty, pelottava, persoonallinen, piristävä, rento, rohkea, romanttinen, salaperäinen, sympaattinen, syvällinen, upea, uudenlainen, viihdyttävä, virkistävä, visuaalinen, värikäs
+: ahkera, aikaansaapa, aikaansaava, arvoituksellinen, dynaaminen, edistyksellinen, elokuvamainen, ennakkoluuloton, hieno, humoristinen, huumorintajuinen, ideoiva, ihmisläheinen, innoittava, innostava, kiehtova, kliseinen, lumoava, luova, mahtava, mielikuvitusrikas, monitasoinen, motivoiva, mukaansatempaava, nerokas, nokkela, nopeatempoinen, oivaltava, omalaatuinen, omaperäinen, oppimishaluinen, persoonallinen, päämäärätietoinen, riemastuttava, rohkea, sadunomainen, sarjakuvamainen, surrealistinen, taidokas, tarmokas, todentuntuinen, toimelias, ulospäinsuuntautunut, unenomainen, upea, vangitseva, vastuuntuntoinen, viihdyttävä, voimaannuttava, värikäs
 
 # pidättyväisyys
 
@@ -196,7 +196,7 @@ Orig
 : jäykkä, mielikuvitukseton, tylsä
 
 Expanded
-: ahdistava, ankea, hauska, herkkä, hidas, huvittava, inhottava, joustava, jämäkkä, jännittynyt, kamala, kammottava, kapea, kehno, keskinkertainen, kevyt, kipeä, kireä, kummallinen, kömpelö, lapa, lapsellinen, liukas, löysä, mauton, napakka, nätti, omituinen, outo, paksu, paska, pehmeä, pelottava, raskas, ruma, sekava, sileä, simppeli, surkea, synkkä, säälittävä, takaosa, tiukka, tylsän, tylsää, typerä, vanhanaikainen, viihdyttävä, väljä, ärsyttävä
+: ankea, ennalta-arvattava, epäkiinnostava, etupainoinen, hutera, ikävystyttävä, itsetietoinen, joustamaton, jähmeä, jämäkkä, jäykempi, jäykähkö, kankea, keskinkertainen, kireä, kliseinen, korni, kulmikas, kyllästyttävä, kökkö, kömpelö, lapsellinen, luotaantyöntävä, löysä, masentava, mitäänsanomaton, mälsä, oudohko, persoonaton, pidättyväinen, pitkästyttävä, pitkäveteinen, pliisu, puuduttava, sekava, surkea, särmätön, säälittävä, tekotaiteellinen, tunnoton, tylsähkö, tylsäkin, tympeä, typerä, tyylitön, tökerö, tönkkö, väljä, yliampuva, yllätyksetön
 
 # rohkeus
 
@@ -206,7 +206,7 @@ Orig
 : ekstrovertti
 
 Expanded
-: akselin, alaspäin, alhaalta, etupuolella, ikäänkuin, itsestä, itsestään, katsottuna, kierrä, kulma, kulmaa, kulmat, kääntämällä, lantio, lantion, lattiassa, liike, liikettä, luonnostaan, navan, normaalilta, näkyisi, näkyvissä, näkyvää, näkyy, näyttää, peilistä, pikemminkin, poispäin, päin, päinvastoin, selkärankaa, sisältä, sisältäpäin, sisäänpäin, suuntaisesti, suuntautunut, säteilee, takaosa, toisinpäin, ulkoapäin, ulkoisesti, vasemmalle, vasen, vinoon, vinossa, voimakkaammin, ylhäältä, ylä, ympyrän
+: INTJ, alistuva, antisosiaalinen, avarakatseinen, egoisti, egoistinen, empaattinen, epäsosiaalinen, erakkomainen, huomionhakuinen, huumorintajuinen, idealisti, ihmistyyppi, impulsiivinen, individualisti, introvertti, itsekeskeinen, itsekäs, itseriittoinen, itsetietoinen, itsevarma, kontrollifriikki, laskelmoiva, luonteeltani, läheisriippuvainen, manipuloiva, määräilevä, narsisti, nauravainen, perfektionisti, persoona, pohjimmiltani, puhelias, päällepäin, sisällepäin, sisäänpäin, sisäänpäinkääntynyt, suorasanainen, syrjäänvetäytyvä, tiedostava, tunneihminen, tunnevammainen, tunteellinen, ujo, ulospäinkin, ulospäinsuuntautunut, umpimielinen, vetäytyvä, ylisosiaalinen, yltiösosiaalinen
 
 ## rohkea
 
@@ -214,7 +214,7 @@ Orig
 : uskalias
 
 Expanded
-: aggressiivinen, ahkera, arka, arvaamaton, eloisa, energinen, fiksu, herkkä, herttainen, huoleton, hurmaava, ilkeä, iloinen, innokas, innostava, itsekäs, itsepäinen, itsevarma, kekseliäs, ketterä, kiltti, kokematon, kunnianhimoinen, kuuliainen, kärsivällinen, lahjakas, lapsellinen, leikkisä, lempeä, luottavainen, määrätietoinen, naiivi, nöyrä, optimistinen, ovela, persoona, persoonallinen, pirteä, päättäväinen, rauhallinen, rehellinen, reipas, sivistynyt, sympaattinen, taitava, ujo, utelias, viisas, ylimielinen, älykäs
+: ajattelevainen, avarakatseinen, empaattinen, energinen, ennakkoluuloton, fiksu, harkitsevainen, huumorintajuinen, hyväsydäminen, idearikas, itsetietoinen, itsevarma, jääräpäinen, kiltti, leikkisä, lujatahtoinen, lämminsydäminen, määrätietoinen, nokkela, nöyrä, omapäinen, peloton, periksiantamaton, peräänantamaton, päättäväinen, reipas, rohkea, rohkeakin, räväkkä, röyhkeä, seikkailunhaluinen, sinnikäs, sisukas, suorapuheinen, suorasanainen, suorasukainen, sähäkkä, tarmokas, temperamenttinen, tunteellinen, tyhmänrohkea, uhkarohkea, ulospäinsuuntautunut, vahvatahtoinen, vakavamielinen, vastuuntuntoinen, viisas, voimakastahtoinen, yritteliäs, älykäs
 
 # arkuus
 
@@ -224,7 +224,7 @@ Orig
 : introvertti
 
 Expanded
-: aavistuksen, alaspäin, alemmas, alhaalta, asentoon, hartiat, jäykkä, katsetta, korvien, kulma, kulmat, kääntymään, kääntyvät, kääntyy, kääntämällä, kääntää, lantio, lantion, lapa, lattiaan, leuan, leuka, navan, poikittain, poispäin, päin, pää, pään, päät, rintakehä, selkä, selkärangan, selän, suoraksi, suuntaisesti, taaksepäin, taivuttaa, takaosa, takaosassa, ulospäin, vaistomaisesti, vasemmalle, vasemman, vasempaan, vasen, vinoon, vinossa, ylhäältä, ylä, ylösalaisin
+: INTJ, alaviistoon, alistuva, antisosiaalinen, aseksuaali, autisti, autistinen, ekstrovertti, empaattinen, epäsosiaalinen, erakkomainen, harhaluuloinen, huumorintajuinen, idealisti, impulsiivinen, individualisti, itsekeskeinen, itsekäs, itsevarma, kiertynyt, kontrollifriikki, kyyninen, kääntyneenä, luonteeltani, läheisriippuvainen, mieleltäni, naiivi, narsisti, perfektionisti, pikkuvanha, pohjimmiltani, puhelias, romantikko, sisällepäin, sisäänpäinkääntynyt, sivullepäin, syrjäänvetäytyvä, toispuoleisesti, tosikko, tunneihminen, tunnevammainen, ujo, ulos-, ulospäin, ulospäinsuuntautunut, umpimielinen, vetäytyvä, vinoon, yläviistoon, ääriasentoon
 
 ## arka
 
@@ -232,7 +232,7 @@ Orig
 : ujo, uskaltamaton
 
 Expanded
-: ahdistunut, arka, avuton, epävarma, fiksu, herkkä, hermostunut, herttainen, hämmentynyt, hölmö, ilkeä, iloinen, inhottava, innokas, itsekäs, itsepäinen, itsevarma, jännittynyt, kateellinen, kiltti, kipeä, kiukkuinen, kokematon, kömpelö, laiha, laiska, lapsellinen, leikkisä, levoton, lihava, masentunut, mustasukkainen, naiivi, nuori, pelottava, persoona, päättäväinen, rohkea, teini, turhautunut, tyhmä, tyttö, utelias, viaton, vihainen, välinpitämätön, yksinäinen, ylimielinen, ärsyttävä, ärtynyt
+: alistuvainen, arempi, arka, arkakin, epäluuloinen, herkkä, herkkänahkainen, hissukka, huomionhakuinen, huomionkipeä, huumorintajuinen, hyväsydäminen, hömelö, itsekeskeinen, itserakas, itsevarma, juro, jääräpäinen, kiltti, koppava, kärsimätön, leuhka, luonteeltani, läheisriippuvainen, mustasukkainen, nauravainen, nössö, omistushaluinen, pelokas, pikkuvanha, puhelias, seurallinen, sinisilmäinen, sisäänpäinkääntynyt, syrjäänvetäytyvä, säikky, temperamenttinen, tempperamenttinen, tungetteleva, ujohko, ujokin, ujompi, ujonpuoleinen, utelias, vetäytyvä, voimakastahtoinen, yltiösosiaalinen, äkkipikainen, äkäinen, äreä
 
 # tunnollisuus
 
@@ -242,7 +242,7 @@ Orig
 : luotettava, vastuullinen, vastuunkantava
 
 Expanded
-: aktiivinen, ammattimainen, ammattitaitoinen, asiantunteva, avulias, eettinen, energinen, fiksu, hyvämaineinen, innokas, itsekäs, itsenäinen, itsepäinen, itsevarma, kilpailukykyinen, kiltti, kokematon, kunnianhimoinen, kunnollinen, kustannustehokas, kärsivällinen, laadukas, lahjakas, laiska, luottavainen, menestyvä, motivoitunut, määrätietoinen, nuori, nöyrä, osaava, pitkäjänteinen, puolueeton, pätevä, päättäväinen, rehellinen, reipas, rohkea, taitava, tehokas, toimija, turvallinen, täsmällinen, utelias, vaivaton, vakaa, vastuullisuus, viisas, ystävällinen, älykäs
+: ahkera, aikaansaapa, ajattelevainen, aloitekykyinen, ammattitaitoinen, asiantunteva, empaattinen, fiksu, huumorintajuinen, hyväsydäminen, innokas, itsevarma, laadukas, lahjakas, lämminsydäminen, monitaitoinen, motivoitunut, määrätietoinen, nopeaälyinen, oma-aloitteinen, oppimishaluinen, pedantti, periksiantamaton, peräänantamaton, pitkäpinnainen, proaktiivinen, puhelias, puurtaja, päämäärätietoinen, päättäväinen, rehti, reipas, sisukas, säntillinen, taitava, tarmokas, tiedonhaluinen, toimelias, työskentelijä, työteliäs, ulospäinsuuntautunut, uuttera, vahvatahtoinen, vaivaton, vastuuntuntoinen, velvollisuudentuntoinen, voimakastahtoinen, yhteiskuntavastuullinen, yhteistyökykyinen, yritteliäs
 
 ## turvallinen
 
@@ -250,7 +250,7 @@ Orig
 : vaaraton, varma
 
 Expanded
-: aiheuttava, arvaamaton, asianmukainen, bakteeri, epämiellyttävä, epävarma, erinomainen, haitallinen, harvinainen, helppokäyttöinen, huoleton, huomaamaton, infektio, joustava, keinotekoinen, kiusallinen, kivulias, korkealaatuinen, kustannustehokas, laadukas, luonnollinen, luotettava, merkityksetön, mielekäs, miellyttävä, myrkky, myrkyllinen, oikeudenmukainen, optimaalinen, pelottava, puhdas, rauhallinen, tappava, tarpeeton, tasapainoinen, tavanomainen, tehokas, terveellinen, tietoinen, turvallisempi, turvallista, vaaraksi, vaarallista, vaivaton, vakaa, vakava, vakuuttunut, vastenmielinen, virus, ympäristöystävällinen
+: allergeeni, asianmukainen, bakteeri, epäilyttävä, epämiellyttävä, haitallinen, haitaton, harmiton, harvinainen, hengenvaarallinen, hengitettynä, hermomyrkky, huomaamaton, hygieeninen, hyvänlaatuinen, kiusallinen, kivuton, kustannustehokas, luonnoton, luotettava, meluton, miellyttävä, myrkky, myrkytys, myrkytön, pelottava, reaktiivinen, salakavala, sataprosenttisen, satavarma, steriili, stressitön, tappava, tarkoituksenmukainen, tehokas, toimintavarma, toksinen, turvallisempi, turvallista, vaarallinen, vaaratonta, vaarattomampi, vaarattomia, vahingollinen, vaivaton, vakaa, vakava, vakuuttunut, virikkeellinen, ympäristöystävällinen
 
 # huolimattomuus
 
@@ -260,7 +260,7 @@ Orig
 : epäluotettava, leväperäinen, tehtävistään huolehtimaton, vastuuton
 
 Expanded
-: absurdi, aggressiivinen, ahne, arvaamaton, avuton, epäonnistunut, epävakaa, epävarma, fiksu, hidas, huolimattomasti, hölmö, ilkeä, itsekäs, julma, järkevä, kehno, kestämätön, kyseenalainen, lapsellinen, naiivi, naurettava, onneton, poliittinen, puutteellinen, rasistinen, rehellinen, rikollinen, ristiriitainen, sairas, surkea, säälittävä, tahallinen, tarpeeton, tehoton, tietämätön, toivoton, tyhmä, typerä, tällainen, vaarallinen, vanhanaikainen, vastenmielinen, vastuullinen, viaton, viisas, väkivaltainen, välinpitämätön, ylimielinen, älykäs
+: ahdasmielinen, ahne, ajattelematon, edesvastuuton, egoistinen, empatiakyvytön, epädemokraattinen, epäilyttävä, epäisänmaallinen, epäjohdonmukainen, epälooginen, epäoikeudenmukainen, epärehellinen, epäreilu, harkitsematon, holtiton, hyväuskoinen, häikäilemätön, hätäinen, itsekeskeinen, itsekäs, itsetuhoinen, julma, kaksinaamainen, kaksinaismoralistinen, kevytmielinen, kusipäinen, kyyninen, kömpelö, lapsellinen, lepsu, lyhytnäköinen, löperö, manipuloiva, moraaliton, moukkamainen, naiivi, naivi, narsistinen, näköalaton, piittaamaton, röyhkeä, selkärangaton, tekopyhä, tuhlaileva, typerä, valehteleva, varomaton, vastuuntunnoton, väkivaltainen
 
 ## arveluttava
 
@@ -268,7 +268,7 @@ Orig
 : turvaton
 
 Expanded
-: absurdi, ahdistava, ahdistunut, ankea, epämääräinen, epäselvä, epävakaa, erikoinen, huolestuttava, huvittava, hämmentävä, inhottava, järkevä, kammottava, kannatettava, kehno, kestämätön, kiinnostava, kiusallinen, kohtuuton, kummallinen, kurja, levoton, looginen, masentunut, merkityksellinen, mielenkiintoinen, naurettava, omituinen, ongelmallinen, onneton, outo, pelottava, poikkeuksellinen, rasistinen, ristiriitainen, sairas, surullinen, tarpeeton, toisenlainen, toivoton, typerä, tällainen, vaarallinen, vastenmielinen, voimaton, väärä, yksinäinen, yksipuolinen, yllättävä
+: ahdistava, ahdistunut, ankea, arvelluttava, arveluttavaa, asenteellinen, avuton, epäilyttävä, epälooginen, epäreilu, epätoivottava, erikoinen, eriskummallinen, haavoittuva, haavoittuvainen, harkitsematon, huvittava, ilmiselvä, järjenvastainen, kestämätön, kiintoisa, kimurantti, kiusallinen, korrekti, kummallinen, kurja, kyseenalainen, mielenkiintoinen, nurinkurinen, omituinen, ongelmallinen, outo, paheksuttava, problemaattinen, pulmallinen, pöyristyttävä, relevantti, riskaabeli, ristiriitainen, suojaton, surkuhupaisa, tarkoitushakuinen, tukala, turvattomampi, tällainen, vastenmielinen, yhdentekevä, yksioikoinen, yksipuolinen, yllättävä
 
 # pätevyys
 
@@ -278,7 +278,7 @@ Orig
 : asiallinen, kokenut, osaava, taitava
 
 Expanded
-: ahkera, ammattilainen, ammattimainen, ammattitaitoinen, asiallisen, asiantunteva, avulias, fiksu, havainnut, huomannut, hyvä, innokas, innostava, itsevarma, johdonmukainen, järkevä, karismaattinen, kelvollinen, ketterä, kohdannut, kohtelias, kokee, kokematon, koki, koulutettu, kunnollinen, laadukas, lahjakas, looginen, luotettava, menestyvä, motivoitunut, määrätietoinen, nuorekas, nähnyt, ovela, päteviä, pätevä, päättäväinen, rehellinen, rohkea, taistelija, tarpeellinen, tuntenut, tunteva, täsmällinen, uskottava, viisas, ystävällinen, älykäs
+: ahkera, aikaansaapa, ammattitaitoinen, asenteellinen, asiakaspalveluhenkinen, asiantunteva, asiapitoinen, auttavainen, avulias, epäpätevä, etevä, fiksu, idearikas, ihmisläheinen, innokas, johdonmukainen, juonikas, kelvollinen, kiihkoton, kohdannut, kokematon, kokenutkaan, kokenyt, korrekti, koulutettu, kylmähermoinen, kyvykäs, lahjakas, luotettava, läpikäynyt, monilahjakas, monitaitoinen, motivoitunut, nopeaälyinen, oppimishaluinen, oppimiskykyinen, osaaja, palvelualtis, palveluhenkinen, pedantti, periksiantamaton, provosoiva, sanankäyttäjä, taidokas, tunnollinen, vastuuntuntoinen, yhteistyökykyinen, ymmärtävä, yritteliäs, ystävällinen
 
 # epäpätevyys
 
@@ -288,7 +288,7 @@ Orig
 : epäasiallinen, kokematon, osaamaton, taidoton
 
 Expanded
-: aggressiivinen, ahne, aloittelija, arka, arvaamaton, avuton, epävarma, fiksu, hermostunut, hämmentynyt, hölmö, ilkeä, innokas, itsekäs, itsepäinen, itsevarma, iäkäs, kiukkuinen, kokenut, konkari, kömpelö, lahjakas, laiska, lapsellinen, luottavainen, lupaava, määrätietoinen, naiivi, nuori, nälkäinen, nöyrä, onneton, ovela, päättäväinen, rohkea, taistelija, taitava, tietämätön, toivoton, turhautunut, tyhmä, ujo, utelias, viaton, viisas, voimaton, välinpitämätön, yksinäinen, ylimielinen, älykäs
+: ahdistelu, ailahtelevainen, alipalkattu, ammattitaidoton, asennevammainen, avuton, epäkelpo, epäkunnioittava, epäpätevä, epärehellinen, epäurheilijamainen, hyväuskoinen, häiriköinti, häirintä, innokas, itsevarma, jääräpäinen, keltanokka, kielenkäyttö, kielitaidoton, kokeneempi, kovapäinen, kylmähermoinen, kädetön, kärsimätön, lahjakas, lahjaton, loukkaava, lukutaidoton, nimittely, nuori, provosointi, puhumaton, pätevä, pätevämpi, rutinoitunut, rämäpäinen, sisukas, tahallinen, taitamaton, tasapainoton, tumpelo, tunari, uhkarohkea, ummikko, untuvikko, vahvatahtoinen, voimakastahtoinen, vähä-älyinen, ymmärtämätön
 
 # päättäväisyys
 
@@ -298,7 +298,7 @@ Orig
 : horjumaton, kunnianhimoinen, lujaluonteinen, määrätietoinen, peräänantamaton, tavoiteorientoitunut
 
 Expanded
-: aggressiivinen, ahkera, aktiivinen, arvaamaton, eloisa, energinen, hellä, herkkä, herttainen, ilkeä, iloinen, innokas, innostava, itsepäinen, itsevarma, jännittynyt, järjestelmällinen, ketterä, kiltti, kokematon, kuuliainen, kärsivällinen, lahjakas, leikkisä, lempeä, luottavainen, luova, motivoitunut, nöyrä, optimistinen, osaava, persoona, pirteä, pitkäjänteinen, päättäväinen, ratsastaessa, ratsu, ratsuna, rauhallinen, realistinen, rehellinen, reipas, rohkea, sitkeä, taitava, ujo, utelias, välinpitämätön, ylimielinen, älykäs
+: energinen, ennakkoluuloton, harkitsevainen, herrasmiesmäinen, huumorintajuinen, hyväkäytöksinen, itsetietoinen, itsevarma, järkkymätön, järkähtämätön, jääräpäinen, kilpailunhaluinen, kiltti, kovapäinen, kuuliainen, kuuntelevainen, kylmähermoinen, kärsivällinen, lannistumaton, lempeä, lujatahtoinen, miellyttämisenhaluinen, miellyttämishaluinen, nopeaälyinen, nöyrä, omapäinen, oppivainen, periksiantamaton, pitkäjännitteinen, pitkäpinnainen, päämäärätietoinen, päättäväinen, reipas, rohkea, sinnikäs, sisukas, säyseä, tarmokas, temperamenttinen, topakka, tottelevainen, vahvaluontoinen, vahvatahtoinen, vastuuntuntoinen, voimakastahtoinen, voitontahtoinen, väsymätön, yhteistyöhaluinen, yhteistyökykyinen, yritteliäs
 
 ## ahkera
 
@@ -306,7 +306,7 @@ Orig
 : tarmokas, toiminnallinen, tomera
 
 Expanded
-: ahkera, aktiivinen, eloisa, energinen, esteettinen, fiksu, herttainen, hurmaava, hyväntuulinen, iloinen, innokas, intohimoinen, itsepäinen, itsevarma, kiltti, kiukkuinen, kokonaisvaltainen, kuuliainen, kärsivällinen, laaja-alainen, lahjakas, leikkisä, lempeä, likka, motivoitunut, määrätietoinen, neiti, nuori, nöyrä, pikkuinen, pikkupoika, pirteä, poju, päättäväinen, rauhallinen, reipas, rohkea, sievä, sitkeä, suloinen, sympaattinen, taitava, tyttö, tyttönen, täti, utelias, vilkas, virkeä, visuaalinen, yhteisöllinen
+: ahkera, aikaansaapa, energinen, hellyydenkipeä, herttainen, huomionkipeä, huumorintajuinen, hyväkäytöksinen, hyväsydäminen, hyvätapainen, höppänä, innokas, kiltti, kokonaisvaltainen, kovapäinen, leikkisä, lujatahtoinen, lutuinen, meneväinen, määrätietoinen, nauravainen, neiti, omapäinen, oppivainen, periksiantamaton, peräänantamaton, puuhakas, päättäväinen, rasavilli, reipas, sinnikäs, sisukas, säyseä, temperamenttinen, tempperamenttinen, terhakka, toimelias, topakka, touhottaja, touhukas, tuittupäinen, tunnollinen, työteliäs, uuttera, vahvatahtoinen, valpas, voimakastahtoinen, väsymätön, yritteliäs, äksy
 
 # tavoitteettomuus
 
@@ -316,7 +316,7 @@ Orig
 : flegmaattinen, kunnianhimoton
 
 Expanded
-: 
+: aggressiivinen, ailahteleva, ailahtelevainen, alakuloinen, alavireinen, alistuva, aloitekyvytön, apaattinen, apea, energinen, flegu, huonotuulinen, hömelö, itsevarma, juro, jääräpäinen, keskittymiskyvytön, kiukkuinen, kunnianhimoinen, kärsimätön, kärttyinen, kärttyisä, laiskanpulskea, lepsu, levoton, pahantuulinen, pelokas, pirteä, poissaoleva, ponneton, puhelias, päällekäyvä, rauhallinen, rauhaton, riehakas, rämäpäinen, saamaton, sisäänpäinkääntynyt, stressaantunut, takakireä, tylsistynyt, unelias, vaisu, vieraskorea, väsähtänyt, ylienerginen, ylipirteä, ylivilkas, äkäinen, äreä
 
 ## laiska
 
@@ -324,7 +324,7 @@ Orig
 : hidas, toimeton
 
 Expanded
-: ahdistunut, ahkera, ahne, arka, avuton, epävakaa, fiksu, heikko, hidasta, hiljainen, hitaampaa, hitaampi, huono, hölmö, ilkeä, innokas, itsekäs, itsepäinen, jäykkä, kehno, kiireinen, kiltti, kiukkuinen, kokematon, kyllästynyt, kömpelö, laiska, lapsellinen, levoton, lihava, masentunut, nopea, nälkäinen, onneton, rasittava, raskas, sekava, suoraviivainen, surkea, säälittävä, tehoton, toivoton, turhautunut, tyhmä, tylsä, ujo, utelias, uupunut, väsynyt, ärsyttävä
+: ahne, aikaansaamaton, hajamielinen, hidaskin, hidasta, hitaahko, hitaampi, hitaanlainen, hitaanpuoleinen, huonomuistinen, huonotuulinen, hätäinen, hömelö, kankea, keskittymiskyvytön, kiukkuinen, kärsimätön, kärttyinen, kömpelö, laiskakin, laiskempi, laiskimus, laiskistunut, luonnostani, luonteeltani, lusmu, lyhytjännitteinen, malttamaton, mukavuudenhaluinen, nipo, nopea, nopeakin, nössö, patalaiska, perfektionisti, peruslaiska, pihi, pöljä, saamaton, stressaantunut, superlaiska, sählä, tumpelo, turhamainen, tyhmä, tylsistynyt, verkkainen, voimaton, väsynyt, yllytyshullu
 
 # hienostuneisuus
 
@@ -334,7 +334,7 @@ Orig
 : , aistikas, elegantti, elitistinen, hienosteleva, hienostunut, tyylikäs
 
 Expanded
-: ajaton, eksoottinen, eloisa, herttainen, hillitty, hurmaava, ihastuttava, kaunis, kiehtova, klassinen, kodikas, komea, kompakti, korkealaatuinen, käytännöllinen, lämminhenkinen, makea, miellyttävä, miljöö, moderni, monikäyttöinen, naisellinen, nuorekas, nykyaikainen, nätti, näyttävä, omalaatuinen, pelkistetty, persoonallinen, rauhallinen, romanttinen, seksikäs, sievä, siisti, siro, sisustus, suloinen, sympaattinen, tilava, trendikäs, tunnelmallinen, tyylikkään, tyylikkäät, upea, valoisa, viehättävä, viihtyisä, viimeistelty, värikäs, ylellinen
+: ahdasmielinen, ajaton, boheemi, charmikas, eläväinen, epäpoliittinen, herttainen, hillitty, homssuinen, hurmaava, idealistinen, idyllinen, ihastuttava, kaunis, kodikas, kuvauksellinen, liberaali, linjakas, lumoava, luonnonkaunis, maalaismainen, maalauksellinen, maanläheinen, minimalistinen, moderni, muodikas, pelkistetty, pittoreski, puoleensavetävä, rahvaanomainen, retrohenkinen, selkeälinjainen, sievä, sulavalinjainen, sympaattinen, trendikäs, tunnelmallinen, tyylikkään, tärkeilevä, upea, valloittava, vanhakantainen, veistoksellinen, viehkeä, viehko, viehättävä, viihtyisä, virtaviivainen, värikäs, ylellinen
 
 ## laadukas
 
@@ -342,7 +342,7 @@ Orig
 : hyvälaatuinen, tasokas
 
 Expanded
-: ammattimainen, ammattitaitoinen, asiantunteva, edullinen, erinomainen, helppokäyttöinen, hieno, hyvämaineinen, innovatiivinen, joustava, jämäkkä, kevyt, kilpailukykyinen, kodikas, korkealaatuinen, korkeatasoinen, kunnollinen, kustannustehokas, käyttökelpoinen, käytännöllinen, laadukas, laadukasta, laadukkaan, laadukkaat, laadultaan, loistava, luotettava, lämminhenkinen, miellyttävä, monikäyttöinen, monipuolinen, nuorekas, nykyaikainen, oikeanlainen, osaava, perinteikäs, siisti, tehokas, tilava, toimiva, tunnelmallinen, turvallinen, tyylikäs, upea, vaatimaton, vaivaton, vakuuttava, viehättävä, viihdyttävä, viihtyisä
+: ajanmukainen, ammattitaitoinen, asiakasystävällinen, asiantunteva, ensiluokkainen, erinomainen, heikkolaatuinen, helppokäyttöinen, huippulaadukas, huippulaatuinen, huipputasoinen, hulppea, huokea, huonolaatuinen, hyvälaatuista, hyvämaineinen, hyvätasoinen, kilpailukykyinen, kodikas, kohtuuhintainen, korkealaatuinen, korkealuokkainen, korkeatasoinen, kovatasoinen, kunnollinen, kustannustehokas, laadukas, lapsiystävällinen, loistelias, loistokas, luotettava, lämminhenkinen, monipuolinen, nykyaikainen, parempilaatuinen, rakeinen, ripeä, siisti, säänkestävä, tasalaatuinen, tasokasta, tasokkaan, tasokkaat, tunnelmallinen, tyylikäs, upea, uudenaikainen, vaivaton, viehättävä, viihtyisä
 
 # rosoisuus
 
@@ -352,7 +352,7 @@ Orig
 : hiomaton, karkea, karski
 
 Expanded
-: ahdistava, ajaton, ankea, eloisa, epämiellyttävä, epämääräinen, epätasainen, hauras, hento, hillitty, humoristinen, jämäkkä, kaunis, kauttaaltaan, keinotekoinen, kiehtova, kuiva, kuuloinen, likainen, löysä, metallinen, napakka, näköinen, näyttävä, ohut, oloinen, omalaatuinen, omaperäinen, paikoitellen, paksu, paljas, pehmeä, persoonallinen, raikas, ruma, sileä, soundi, synkkä, tavanomainen, terävä, tiheä, tumma, tunnelmallinen, tuntuinen, tyypillinen, täyteläinen, värikäs, värimaailma, yksinkertainen, äänimaailma
+: aaltoileva, charmantti, epätasainen, häijy, ilmava, juro, jäyhä, karhea, karkeahko, kivikasvoinen, koppava, koruton, kovanaamainen, kulmikas, laskelmoiva, lipevä, maalaileva, maanläheinen, melankolinen, monisävyinen, nenäkäs, pahasuinen, pelkistetty, renttumainen, rosoisen, rouhea, rujo, rujon, sliipattu, suorasanainen, suorasukainen, surumielinen, suttuinen, suulas, särmikäs, säröinen, sävykäs, tasapaksu, tummanpuhuva, tummasävyinen, unenomainen, utuinen, viipyilevä, vivahteikas, vähäeleinen, vähäpuheinen, yleisilmeeltään, yrmeä, yrmy, äreä
 
 ## huonolaatuinen
 
@@ -360,7 +360,7 @@ Orig
 : epätasainen, heikko, heikkolaatuinen, huono, laaduton
 
 Expanded
-: alhainen, ankara, epämiellyttävä, epävakaa, heikentynyt, heikkenee, heikkoa, heikompi, hidas, huonompi, hyvä, hyväkin, inhottava, kamala, karkea, karmea, kauhea, kehno, kireä, kohtalainen, kova, kuiva, kummallinen, kurja, liukas, löysä, ohut, olematon, omituinen, onneton, outo, paha, paksu, parempi, paska, puutteellinen, riittämätön, siedettävä, sileä, surkea, tasainen, toivoton, typerä, vahva, vakaa, voimakas, voimaton, väärä, älytön, ärsyttävä
+: ala-arvoinen, epätasaisen, epätasaista, epävakaa, harmillinen, heikkoa, heikkolaatuista, heikkotasoinen, heikohko, heikompi, heikonlainen, heiveröinen, horjuva, huonohko, huonokin, huonolaatuinen, huonompi, huonompilaatuinen, hutera, hyvä, hyväkin, hyvälaatuinen, inhottava, kamala, karkea, karsea, kehittymätön, kehno, kova, kuiva, kurja, masentava, mitäänsanomaton, muhkurainen, olematon, outo, paha, parempilaatuinen, paskamainen, rakeinen, riittämätön, sisällötön, surkea, suttuinen, tahmea, tasainen, vahva, veemäinen, voimakas, ”huono
 
 # arvovaltaisuus
 
@@ -370,7 +370,7 @@ Orig
 : arvostettu, kunnioitettu, sivistynyt, yksinoikeutettu
 
 Expanded
-: ajatteleva, ateisti, fiksu, herttainen, ihminen, itsekäs, itsevarma, julma, juutalainen, kansainvälisesti, karismaattinen, kohtelias, kristitty, kunnioittaa, kunnioittava, köyhä, lahjakas, lapsellinen, liberaali, länsimainen, menestyvä, muslimi, naiivi, nuori, nöyrä, omalaatuinen, persoona, poliitikko, puhuva, rakastettu, rasisti, rehellinen, rikas, rohkea, suomalainen, sympaattinen, tunnettu, tunnustettu, tunteva, tuomaristo, uskovainen, valtuuskunta, vanhanaikainen, varakas, vasemmistolainen, viaton, viisas, väkivaltainen, ylimielinen, älykäs
+: ahdasmielinen, ajatteleva, aristokraattinen, avarakatseinen, avomielinen, empaattinen, fiksu, humaani, huumorintajuinen, hyveellinen, hyväsydäminen, intellektuelli, intelligentti, itsekeskeinen, itseriittoinen, itsetietoinen, itsetuntoinen, joviaali, kansanmies, kaunopuheinen, keskiluokkainen, kosmopoliitti, kultivoitunut, kultturelli, kunnioittama, laajakatseinen, laskelmoiva, liberaali, luokkatietoinen, oppimaton, selväjärkinen, sisäänpäinkääntynyt, sivistymätön, sovinistinen, sovinnainen, suorasanainen, suoraselkäinen, suvaitsematon, suvaitseva, suvaitsevainen, tervejärkinen, tiedostava, toimeentuleva, umpimielinen, valistunut, valveutunut, vapaamielinen, viisas, yleissivistynyt, ymmärtävä
 
 # vähäpätöisyys
 
@@ -380,7 +380,7 @@ Orig
 : epäsivistynyt, merkityksetön, mitätön, riittämätön, toisarvoinen, vähäarvostettu, vähämerkityksellinen
 
 Expanded
-: absurdi, alentunut, arvokas, elintärkeä, erikoinen, heikentynyt, heikko, huomattava, ihmeellinen, ilmeinen, kiusallinen, kohtuullinen, kohtuuton, kummoinen, kyseenalainen, käsittämätön, liiallinen, looginen, merkittävä, merkityksellinen, mikään, naurettava, negatiivinen, olematon, onneton, pelottava, pieni, puute, puutteellinen, päinvastainen, ratkaiseva, riittävä, selvä, surkea, suuri, säälittävä, tarpeeton, todellinen, toissijainen, typerä, tärkeä, vaatimaton, vakava, vastenmielinen, vähäinen, välttämätön, yksiselitteinen, yksittäinen, yllättävä, älytön
+: arkipäiväinen, arvoton, epäoleellinen, epäolennainen, epärelevantti, epätodennäköinen, heikko, huomionarvoinen, häpeällinen, hävettävä, irrelevantti, itsestäänselvä, kohtuuton, kulttuurisidonnainen, kuolemanvakava, käsittämätön, marginaalinen, merkityksellinen, merkityksetöntä, minimaalinen, naurettava, oleellinen, oleellisempi, oleellisin, olematon, olennaisempi, olennaisin, puutteellinen, päivänselvä, ratkaiseva, relevantti, riittämätöntä, riittävä, samantekevä, sattumanvarainen, sivuasia, sivuseikka, suhteeton, suurikaan, tarpeeton, toisarvoista, triviaali, tärkeämpi, väheksyttävä, vähäinen, vähämerkityksinen, vähäpätöinen, yhdentekevä, yksioikoinen, ylimitoitettu
 
 # epävirallisuus
 
@@ -390,7 +390,7 @@ Orig
 : helppo, huoleton, mutkaton, rento, yksinkertainen
 
 Expanded
-: eloisa, energinen, hankala, helpompi, herttainen, hiljainen, hillitty, hurmaava, hyväntuulinen, ilmapiiri, iloinen, innostava, inspiroiva, itsevarma, kannustava, kodikas, kätevä, käytännöllinen, leikkisä, lempeä, leppoisa, looginen, lämmin, lämminhenkinen, miellyttävä, monimutkainen, mukava, naisellinen, nerokas, nopea, pelkistetty, persoonallinen, pirteä, rauhallinen, reipas, rennon, rentouttava, siisti, simppeli, suoraviivainen, tavanomainen, tunnelma, täydellinen, vaikea, vaivaton, vauhdikas, virallinen, virkeä, yksinkertaisen, yksinkertaisin
+: Rento, eloisa, eläväinen, energinen, freesi, hankala, helpompi, heppo, hiljainen, huumorintajuinen, hyväntuulinen, itsevarma, kiireetön, kotoisa, käytännöllinen, lempeä, leppoinen, leppoisa, lepposa, letkee, letkeä, levollinen, lupsakka, lämminhenkinen, maanläheinen, miellyttävä, mielyttävä, monimutkainen, mukava, mukavanoloinen, nerokas, pirteä, pirtsakka, rauhaisa, rauhallinen, reipas, rempseä, rennompi, rennon, rentoutunut, riehakas, seesteinen, siisti, simppeli, tunnelma, tuttavallinen, vaivaton, virallinen, virallisempi, yksikertainen
 
 # virallisuus
 
@@ -400,5 +400,5 @@ Orig
 : byrokraattinen, hankala, hidas, monimutkainen, vaikea, vaivalloinen
 
 Expanded
-: demokraattinen, epävakaa, epävirallinen, haastava, haastavaa, haasteellinen, hankalaa, hankalampi, heikko, helpompi, helppo, hidasta, hitaampi, hyvinvointivaltio, ideologinen, inhottava, jäykkä, kapitalismi, kehno, keinotekoinen, korruptio, kömpelö, laiska, liberaali, mahdoton, mahdotonta, markkinatalous, massiivinen, monimutkaisempi, monimutkaisia, nopea, pakko, poliittinen, prosessi, rasittava, raskas, sekava, sosialistinen, tehoton, turhauttavaa, vaikeaa, vaikeampi, vaikeata, vaikee, vaikeeta, viisasta, yhteiskunnallinen, yhteiskunta, yksinkertainen, yksityiskohtainen
+: aikaavievä, autoritaarinen, autoritäärinen, byrokratia, demokraattinen, epädemokraattinen, epävirallinen, haastava, hankalaa, hankalahko, hankalampi, helpompi, helppokin, hidaskin, hidasta, hierarkinen, hitaahko, hitaampi, hitaanlainen, hätäinen, kankea, kapitalistinen, keskusjohtoinen, kompleksinen, korporatiivinen, kömpelö, mahdoton, mahdotonta, monimutkaisempi, monitahoinen, monivaiheinen, mutkikas, nopea, nopeakin, raskas, riskialtis, tasapäistävä, teknokraattinen, totalitaristinen, työläs, uuvuttava, vaikeaa, vaikeahan, vaikeahko, vaikeakin, vaikeampi, vaikeaselkoinen, vaikeata, vaivalloista, yksinkertainen
 
